@@ -14,13 +14,13 @@
 
 * 
     
-*  ![alt text](../picture/Screenshot52)png "Результат програми")
+*  ![alt text](../picture/Screenshot 52)png "Результат програми")
 
 * створив новий файл з розширенням .ipynb,  my_first_app.ipynb
 програма вивела
-![alt text](../picture/Screenshot53.png "Результат програми")
+![alt text](../picture/Screenshot 53.png "Результат програми")
 chat gpt запропонував
-![alt text](../picture/Screenshot55.png "Chat gpt")
+![alt text](../picture/Screenshot 55.png "Chat gpt")
 
   
 ---
