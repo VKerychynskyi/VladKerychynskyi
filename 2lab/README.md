@@ -8,29 +8,29 @@
    
     1. Приклад програми з простими змінними, списками list, наборами set та словниками dict
     
-name = "John"
-age = 25
-height = 1.75
-grades = [95, 89, 78, 92, 87]
-hobbies = {"reading", "coding", "gaming", "traveling"}
-person_info = {
+ name = "John"
+ age = 25
+ height = 1.75
+ grades = [95, 89, 78, 92, 87]
+ hobbies = {"reading", "coding", "gaming", "traveling"}
+ person_info = {
     "name": "John",
     "age": 25,
     "height": 1.75,
     "grades": [95, 89, 78, 92, 87],
     "hobbies": {"reading", "coding", "gaming", "traveling"}
-}
-print(f"Name: {name}")
-print(f"Age: {age}")
-print(f"Height: {height}m")
-print(f"Grades: {grades}")
-print(f"Hobbies: {hobbies}")
-print("\nPerson Information:")
-print(f"Name: {person_info['name']}")
-print(f"Age: {person_info['age']}")
-print(f"Height: {person_info['height']}m")
-print(f"Grades: {person_info['grades']}")
-print(f"Hobbies: {person_info['hobbies']}")
+ }
+ print(f"Name: {name}")
+ print(f"Age: {age}")
+ print(f"Height: {height}m")
+ print(f"Grades: {grades}")
+ print(f"Hobbies: {hobbies}")
+ print("\nPerson Information:")
+ print(f"Name: {person_info['name']}")
+ print(f"Age: {person_info['age']}")
+ print(f"Height: {person_info['height']}m")
+ print(f"Grades: {person_info['grades']}")
+ print(f"Hobbies: {person_info['hobbies']}")
 
 Програма вивела
 ![alt text](./picture/Screenshot56.png "Результат програми")
