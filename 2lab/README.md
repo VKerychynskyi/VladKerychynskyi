@@ -7,7 +7,7 @@
 * Результати виконання завдання ;
    
     1. Приклад програми з простими змінними, списками list, наборами set та словниками dict
-    
+  ```python  
  name = "John"
  age = 25
  height = 1.75
@@ -31,7 +31,7 @@
  print(f"Height: {person_info['height']}m")
  print(f"Grades: {person_info['grades']}")
  print(f"Hobbies: {person_info['hobbies']}")
-
+```
 Програма вивела
 ![alt text](./picture/Screenshot56.png "Результат програми")
    
